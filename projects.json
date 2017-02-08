@@ -413,6 +413,13 @@
             "https://github.com/puppetlabs/vmpooler-client",
             "https://github.com/puppetlabs/vmwr"
         ],
+        "mbox": [
+            "https://groups.google.com/forum/#!forum/mcollective-users /home/bitergia/mboxes/barnowl_puppet_mcollective-users",
+            "https://groups.google.com/forum/#!forum/puppet-dev /home/bitergia/mboxes/barnowl_puppet_puppet-dev",
+            "https://groups.google.com/forum/#!forum/puppet-geppetto /home/bitergia/mboxes/barnowl_puppet_puppet-geppetto",
+            "https://groups.google.com/forum/#!forum/puppet-razor /home/bitergia/mboxes/barnowl_puppet_puppet-razor",
+            "https://groups.google.com/forum/#!forum/puppet-users /home/bitergia/mboxes/barnowl_puppet_puppet-users"
+        ],
         "meta": {
             "title": "puppet"
         },
@@ -896,4 +903,3 @@
         ]
     }
 }
-
