@@ -6,7 +6,7 @@
         "jira": [
             "https://tickets.puppetlabs.com"
         ],
-        "git": [
+        "github": [
             "https://github.com/puppetlabs/animals-demo",
             "https://github.com/puppetlabs/appmgmt-module-lamp",
             "https://github.com/puppetlabs/apporch-step-by-step",
@@ -489,7 +489,7 @@
             "St-Louis-Puppet-User-Group",
             "Wellington-Puppet-User-Group"
         ],
-        "github": [
+        "git": [
             "https://github.com/puppetlabs/animals-demo.git",
             "https://github.com/puppetlabs/appmgmt-module-lamp.git",
             "https://github.com/puppetlabs/apporch-step-by-step.git",
