@@ -486,7 +486,11 @@
             "Houston-Puppet-User-Group",
             "Israel-Puppet-User-Group",
             "St-Louis-Puppet-User-Group",
-            "Wellington-Puppet-User-Group"
+            "Wellington-Puppet-User-Group",
+            "Detroit-Puppet-User-Group",
+            "Portland-Puppet-User-Group",
+            "Seattle-Puppet-Meetup",
+            "Sydney-Puppet-Masters"
         ],
         "git": [
             "https://github.com/puppetlabs/animals-demo.git",
